@@ -26,4 +26,4 @@ jobs:
               cd /home/ubuntu/my-app
             fi
             npm install
-            pm2 restart all || pm2 start server.js --name my-app
+            pm2 restart all || pm2 start app.js --name my-app
