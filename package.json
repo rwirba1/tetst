@@ -2,14 +2,14 @@
     "name": "hello-world-server",
     "version": "1.0.0",
     "description": "A simple Node.js HTTP server that responds with 'Hello World'",
-    "main": "server.js",
+    "main": "app.js",
     "scripts": {
-        "start": "node server.js"
+        "start": "node app.js"
     },
     "keywords": [
         "nodejs",
         "http",
-        "server",
+        "app",
         "hello-world"
     ],
     "author": "",
